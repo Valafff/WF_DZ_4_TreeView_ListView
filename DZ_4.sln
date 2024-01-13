@@ -7,9 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ_4_2_ListView_Explorer", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ_4_1_TreeView_1", "DZ_4_1_TreeView\DZ_4_1_TreeView\DZ_4_1_TreeView_1.csproj", "{0C046140-5D9D-46C1-A030-A24E33C1A85A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ_4_WF_TreeView_2", "DZ_4_WF_TreeView_2\DZ_4_WF_TreeView_2.csproj", "{8C557302-B65C-40CF-9525-6A044951E5C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ_4_1_WF_TreeView_2", "DZ_4_WF_TreeView_2\DZ_4_1_WF_TreeView_2.csproj", "{8C557302-B65C-40CF-9525-6A044951E5C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ_4_WF_RichTextBox", "DZ_4_WF_RichTextBox\DZ_4_WF_RichTextBox.csproj", "{C460FBBE-D4E2-422D-B297-D3C3F29E6C76}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ_4_3_WF_RichTextBox", "DZ_4_WF_RichTextBox\DZ_4_3_WF_RichTextBox.csproj", "{C460FBBE-D4E2-422D-B297-D3C3F29E6C76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ_4_4_WF_FileExplorer", "DZ_4_WF_FileExplorer(ex4)\DZ_4_4_WF_FileExplorer.csproj", "{F91D01BF-A06C-419F-BA46-7D1933471F47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{C460FBBE-D4E2-422D-B297-D3C3F29E6C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C460FBBE-D4E2-422D-B297-D3C3F29E6C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C460FBBE-D4E2-422D-B297-D3C3F29E6C76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F91D01BF-A06C-419F-BA46-7D1933471F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91D01BF-A06C-419F-BA46-7D1933471F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91D01BF-A06C-419F-BA46-7D1933471F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91D01BF-A06C-419F-BA46-7D1933471F47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

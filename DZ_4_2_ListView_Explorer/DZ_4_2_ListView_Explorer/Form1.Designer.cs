@@ -164,7 +164,7 @@
 			this.Controls.Add(this.menuStrip);
 			this.MainMenuStrip = this.menuStrip;
 			this.Name = "Form1";
-			this.Text = "Form1";
+			this.Text = "Проводник";
 			this.menuStrip.ResumeLayout(false);
 			this.menuStrip.PerformLayout();
 			this.ResumeLayout(false);
